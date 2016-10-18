@@ -35,7 +35,7 @@ All in project Folder, these will all be filled out with more models/controllers
   2. about - folder for a static page
     1. index.html - about page home
     2. about.css - about page styles
-  3.auth - folder for a react application page
+  3. auth - folder for a react application page
     1. index.html - Auth page home
     2. auth.css - Auth page css
     3. auth.js - entry point for react app on this page
