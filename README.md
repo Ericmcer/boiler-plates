@@ -9,14 +9,14 @@ After setting this up you will have a modern webserver that is extensible and ef
 ## Technologies
 
 1. Back-end
-⋅⋅1. Nginx - Serving static files and reverse proxying API calls to Node
-⋅⋅2. NodeJS - handling API routes
-⋅⋅3. MongoDB - Database
-⋅⋅4. Mongoose - Database validation and business Logic
-⋅⋅5. JWT - Authorization and stateless sessions
+  1. Nginx - Serving static files and reverse proxying API calls to Node
+  2. NodeJS - handling API routes
+  3. MongoDB - Database
+  4. Mongoose - Database validation and business Logic
+  5. JWT - Authorization and stateless sessions
 2. Front-end
-⋅⋅1. React
-⋅⋅2. Bootstrap
+  1. React
+  2. Bootstrap
 
 ## Licensing
 
