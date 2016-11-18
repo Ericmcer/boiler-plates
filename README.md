@@ -16,7 +16,9 @@ After setting this up you will have a modern webserver that is extensible and ef
   5. JWT - Authorization and stateless sessions
 2. Front-end
   1. React
-  2. Bootstrap
+  2. Webpack
+  3. JSX
+  4. Bootstrap
   
 ## File Structure
 
